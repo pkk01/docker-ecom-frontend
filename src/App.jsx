@@ -4,7 +4,7 @@ import Login from './components/Login';
 import Signup from './components/Signup';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomePage from './components/HomePage';
-import Aboutus from './components/Aboutus';
+import AboutUs from './components/AboutUs';
 import Computers from './components/Computers';
 import Mobiles from './components/Mobiles';
 import Laptops from './components/Laptops';
